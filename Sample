@@ -1,0 +1,11 @@
+public class holidays{
+
+public static void main(String[]args){
+
+
+system.out.println("hi sankar");
+system.out.println("hi sasi");
+system.out.println("hi Mithun");
+}
+
+}
